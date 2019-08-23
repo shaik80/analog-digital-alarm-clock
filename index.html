@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Clock</title>
+        <link href="./style/style.css" rel="stylesheet">
+    </head>
+    <body>
+      <div class="nav_header">
+        <h1>Clock</h1>
+        <div class="nav">
+        <a  href="#">Clock</a>
+        <a  href="#alarm_time">Alarm</a>
+        <a  href="#Images">Images</a>
+      </div>
+      </div>
+
+        <div class="canvas">
+          <div class="Clock">  
+            <canvas id="canvas_area" height="400" width="400"></canvas>
+            <h2><span id="current_date"></span></h2>
+
+          </div>
+          <div id="Images">
+            <h1>Images</h1>
+            <p>Intresting Images come across while creating this websites</p>
+            <img src="./img/1.jpg">
+            <img src="./img/2.jpg">
+            <img src="./img/3.jpg">
+            <img src="./img/4.jpg">
+            <img src="./img/clock-1.jpg">
+            <img src="./img/clock-2.jpg">
+            <img src="./img/clock-3.jpg">
+            <img src="./img/clock-4.jpg">
+            <img src="./img/clock-5.jpg">
+            <img src="./img/clock-6.jpg">
+            <img src="./img/clock-7.jpg">
+            <img src="./img/clock-8.jpg">
+            <img src="./img/clock-9.jpg">
+            <img src="./img/clock-10.jpg">
+            <img src="./img/clock-11.jpg">
+            <img src="./img/clock-12.jpg">
+            <img src="./img/clock-13.jpg">
+            <img src="./img/clock-14.jpg">
+            <img src="./img/clock-15.jpg">
+            <img src="./img/clock-16.jpg">
+            <img src="./img/clock-17.jpg">
+            <img src="./img/clock-18.jpg">
+            <img src="./img/clock-19.jpg">
+            <img src="./img/clock-20.jpg">
+            <img src="./img/clock-21.jpg">
+            <img src="./img/clock-22.jpg">
+          </div>
+              <img src="./img/music-note.gif" id="alarm_img">  
+              <div class="alarm">
+              <input type="text" class="alarm-input" id="alarm_time">
+              <br>
+              <h2><span id="current_date1"></span></h2>
+              <button type="submit" onclick="msg()">Summit</button>
+              <button type="submit" onclick="stop_alarm();">Rest</button>
+              <audio id="audio">
+                  <source src="./good_enough.mp3" type="audio/ogg">
+                </audio>
+                <h2 id="mesg">Alarm i set......!</h2>
+                <hr>
+                <div id="footer">
+                    <h3>&copy; Shaik Mudassir</h3>
+            
+                  </div>
+            </div>
+      </div>
+    <script type="text/javascript" src="./js/script.js"></script>
+    </body>
+</html>
