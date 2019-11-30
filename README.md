@@ -1,1 +1,1 @@
-# analog-digital-alarm-clock
+# Analog and digital clock with alarm
