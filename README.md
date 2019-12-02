@@ -17,3 +17,7 @@ This application is made to display time in Analog clock.
 # Clock images
 
 ![Intresting images](/img/screenshoot/clock.jpg)
+
+# Alarm images
+
+![Intresting images](/img/screenshoot/alarm.jpg)
