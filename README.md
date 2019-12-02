@@ -23,3 +23,6 @@ This application is made to display time in Analog clock.
 ### Alarm images
 
 ![Intresting images](/img/screenshoot/alarm.jpg)
+
+|[Click here from demo](https://shaik80.github.io/Block-Magic-Game/)|
+|-----------------------------------------------------------------|
