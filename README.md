@@ -10,14 +10,16 @@ This application is made to display time in Analog clock.
   * Digital clock time
 + Alarm
 
-# Intresting images
+# Images
 
-![Intresting images](/img/screenshoot/image.jpg)
-
-# Clock images
+### Clock images
 
 ![Intresting images](/img/screenshoot/clock.jpg)
 
-# Alarm images
+### Intresting images
+
+![Intresting images](/img/screenshoot/image.jpg)
+
+### Alarm images
 
 ![Intresting images](/img/screenshoot/alarm.jpg)
