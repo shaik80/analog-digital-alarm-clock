@@ -24,5 +24,5 @@ This application is made to display time in Analog clock.
 
 ![Intresting images](/img/screenshoot/alarm.jpg)
 
-|[Click here for demo](https://shaik80.github.io/Block-Magic-Game/)|
+|[Click here for demo](https://shaik80.github.io/analog-digital-alarm-clock/)|
 |-----------------------------------------------------------------|
